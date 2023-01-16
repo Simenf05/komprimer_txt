@@ -1,0 +1,1 @@
+# komprimer_txt
